@@ -2,13 +2,13 @@
 RNA-Seq Profiling of Drosophila (Fruit Fly) Cells after the  depletion of Pasilla Gene - Using Galaxy software and using the concepts of Bioinformatics, performed RNA-Sequencing of Drosophila Cells on the treated to obtain differentially expressed genes and enriched pathways and analyze them.
 
 ### Motivation
-OUR INTEREST IN THE PARTICULAR GENE WAS PIQUED WHEN WE READ THE STUDY OF BROOKS ET AL. THE PAPER EXPLORED THE POSSIBILITY OF CONSERVATION OF REGULATORY CODES AND CONCLUDED THAT THE RNA MAP OF PS AND NOVA1/2 IS HIGHLY CONSERVED BETWEEN MAMMALS AND INSECTS.
+Our interest in the particular gene was piqued when we read the study of brooks et al. The paper explored the possibility of conservation of regulatory codes and concluded that the rna map of ps and nova1/2 is highly conserved between mammals and insects.
 
 ### Data Sets
-4 UNTREATED SAMPLES: GSM461176, GSM461177, GSM461178, GSM461182
-3 TREATED SAMPLES (PASILLA GENE DEPLETED BY RNAI): GSM461179, GSM461180, GSM461181
+4 untreated samples: gsm461176, gsm461177, gsm461178, gsm461182
+3 treated samples (pasilla gene depleted by rnai): gsm461179, gsm461180, gsm461181
 
-EACH SAMPLE CONSTITUTES A SEPARATE BIOLOGICAL REPLICATE OF THE CORRESPONDING CONDITION (TREATED OR UNTREATED). MOREOVER, TWO OF THE TREATED AND TWO OF THE UNTREATED SAMPLES ARE FROM A PAIRED-END SEQUENCING ASSAY, WHILE THE REMAINING SAMPLES ARE FROM A SINGLE-END SEQUENCING EXPERIMENT.
+Each sample constitutes a separate biological replicate of the corresponding condition (treated or untreated). Moreover, two of the treated and two of the untreated samples are from a paired-end sequencing assay, while the remaining samples are from a single-end sequencing experiment.
 
 ### Steps Used
 - Quality Control
@@ -18,14 +18,14 @@ EACH SAMPLE CONSTITUTES A SEPARATE BIOLOGICAL REPLICATE OF THE CORRESPONDING CON
 - Functional Enrichment Analysis of Differentially expressed genes
 
 ### Conclusion
-- DEPLETING PASILLA GENE AFFECTS THE SPLICING RATE OF GENE A AND B DIFFERENTLY.
-- UPREGULATION OF GENE A AND DOWNREGULATION OF GENE B SUGGEST THAT PASILLA SUPPRESSES AND PROMOTES THEIR SPLICING RATE, RESPECTIVELY.
-- PASILLA DEPLETION LEADS TO UNDERREPRESENTATION OF SPLICEOSOME PATHWAY GENES, IMPLYING THAT CORE SPLICEOSOME GENES ARE NOT AFFECTED.
-- UNDERREPRESENTATION OF THE SPLICEOSOME PATHWAY DOES NOT MEAN NO CHANGE IN SPLICING EVENTS, AND ANALYZING DIFFERENTIAL SPLICING EVENTS CAN PROVIDE BETTER INSIGHTS.
-- PASILLA DEPLETION SIGNIFICANTLY AFFECTS THE EXPRESSION LEVELS OF GENES INVOLVED IN THE GLYCOLYSIS PATHWAY.
-- THE OBSERVED DIFFERENTIAL EXPRESSION IN THE GLYCOLYSIS PATHWAY SUGGESTS THAT PASILLA DEPLETION HAS CASCADING EFFECTS ON OTHER GENES, POSSIBLY THROUGH ALTERED ALTERNATIVE SPLICING PATTERNS.
-- Pasilla and NOVA1/2 genes are involved in alternative splicing regulation in insects and mammals, respectively.
-- The RNA maps of Pasilla and NOVA1/2 are highly conserved between mammals and insects, suggesting similar splicing patterns and conserved roles in biological pathways.
-- The study's results can be extended to studying NOVA genes in mammals
+- Depleting pasilla gene affects the splicing rate of gene a and b differently.
+- Upregulation of gene a and downregulation of gene b suggest that pasilla suppresses and promotes their splicing rate, respectively.
+- Pasilla depletion leads to under representation of spliceosome pathway genes, implying that core spliceosome genes are not affected.
+- Under representation of the spliceosome pathway does not mean no change in splicing events, and analyzing differential splicing events can provide better insights.
+- Pasilla depletion significantly affects the expression levels of genes involved in the glycolysis pathway.
+- The observed differential expression in the glycolysis pathway suggests that pasilla depletion has cascading effects on other genes, possibly through altered alternative splicing patterns.
+- Pasilla and nova1/2 genes are involved in alternative splicing regulation in insects and mammals, respectively.
+- The rna maps of pasilla and nova1/2 are highly conserved between mammals and insects, suggesting similar splicing patterns and conserved roles in biological pathways.
+- The study's results can be extended to studying nova genes in mammals
 
 
